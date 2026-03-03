@@ -1,6 +1,4 @@
-# You can use the hashtag to write notes to yourself. The script will ignore these lines.
-# Format: UserID | Reason | Evidence
-
-33323 | Exploiting in minigames | https://youtube.com/watch?v=example
-12345678 | Severe harassment | Screenshot on discord
-98765432 | Bypassing chat | No link needed
+# Ban list (Notes are still allowed using hashtags)
+33323
+12345678
+98765432
