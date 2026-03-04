@@ -1,4 +1,6 @@
-# Ban list (Notes are still allowed using hashtags)
-33323
-12345678
-98765432
+[BANS]
+123456 # DemoBan
+123457 # DemoBan
+
+[UNBANS]
+123458 # DemoUnban
